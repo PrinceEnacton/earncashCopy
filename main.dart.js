@@ -10472,7 +10472,7 @@ break
 case 2:s=5
 return A.B(A.wW(),$async$KR)
 case 5:c.M(0)
-document.cookie="key2=; expires=Thu, 01 Jan 1970 00:00:00 UTC;path=/"
+document.cookie="accessToken=; expires=Thu, 01 Jan 1970 00:00:00 UTC;path=/"
 A.ij(a,!1).e6()
 case 3:return A.F(null,r)}})
 return A.G($async$KR,r)},
